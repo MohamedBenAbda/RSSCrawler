@@ -1,0 +1,175 @@
+#divGlobale
+{
+    position:relative;
+    width:1000px;
+    height:1050px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #FFFFFF ;
+    box-shadow:10px 10px 5px #888888;
+}
+
+
+#div_Haut
+{
+	position:relative;
+	width:1000px;
+	height:300px;
+        margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#div_Link
+{
+	position:relative;
+	width:1000px;
+	height:150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#fieldsetLink
+{
+	position:relative;
+	border:solid 1px black;
+	padding:10px;
+	width:955px;
+	height:100px;
+	color:black;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+#div-center
+{
+	position:relative;
+	width:1000px;
+	height:700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#fieldsetCenter
+{
+	position:relative; 
+	border:solid 1px black;
+	padding:10px;
+	width:955px; 
+	height:650px;
+	color:black; 
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
+#divPetite
+{
+	position:relative;
+	width:1000px; 
+	height:50px;
+	margin-left: 10 px;
+	margin-right: auto;
+}
+
+#divCopyright
+{
+	position:relative;
+	width:1000px; 
+	height:30px;
+	margin-left: 10 px;
+	margin-right: auto;
+}
+.copyright 
+{
+font-family: verdana;
+font-size: small;
+color:#046380;
+text-align : center ;
+}
+
+.error {color: #FF0000;}
+
+.GrandTitre
+{
+font-family: verdana;
+font-size: xx-large;
+color:#046380;
+text-align : center ;
+margin-top: 20px;
+}
+
+
+.lienRSS
+{
+font-family: verdana;
+font-size: small;
+color:#000;
+text-align : left ;
+ font-weight: bold;
+}
+
+.div-1
+{
+	position:relative;
+	width:900px;
+	height:50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.left-1
+{
+	position:relative;
+	width:200px;
+	height:40px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+.right-1
+{
+	position:relative;
+	width:600px;
+	height:40px;
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+}
+
+.left-2
+{
+	position:relative;
+	width:800px;
+	height:100px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+}
+
+.right-2
+{
+	position:relative;
+	width:3300px;
+	height:100px;
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+}
+
+
+#chartdiv {
+    width		: 100%;
+    height		: 500px;
+    font-size	: 11px;  
+}										
+
+.amcharts-export-menu-top-right {
+    top: 10px;
+    right: 0;
+}		
