@@ -23,7 +23,7 @@
 
         <?php
         session_start();
-        
+        $RSSLink='';
         $nbr = '';
         
         if ($_SESSION['role'] == 'admin') {
@@ -173,7 +173,7 @@
 
                 <section class="content">
 
-
+					<div id="divGlobale">
                     <fieldset id="fieldsetLink">
                         <legend> RSS Link </legend> 
 
@@ -209,6 +209,7 @@
                         </p> 
                     </fieldset >
 
+					</div>
                 </section>
 
             </div>
