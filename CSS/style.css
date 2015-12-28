@@ -1,8 +1,8 @@
 #divGlobale
 {
     position:relative;
-    width:1000px;
-    height:1050px;
+    width:800px;
+    height:800px;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: auto; 
@@ -36,7 +36,7 @@
 	position:relative;
 	border:solid 1px black;
 	padding:10px;
-	width:955px;
+	width:755px;
 	height:100px;
 	color:black;
 	margin-left:auto;
@@ -58,10 +58,11 @@
 	position:relative; 
 	border:solid 1px black;
 	padding:10px;
-	width:955px; 
-	height:650px;
+	width:755px; 
+	height:550px;
 	color:black; 
 	margin-left:auto;
+        margin-top: 50px;
 	margin-right:auto;
 }
 
